@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatabaseExample</string>
+
+    <string name="txt_insert">Insert</string>
+    <string name="txt_update">Update</string>
+    <string name="txt_delete">Delete</string>
+
+    <string name="txt_emp_id">Employee Id :</string>
+    <string name="txt_emp_name">Employee Name :</string>
+</resources>
